@@ -5,6 +5,6 @@ This projects attempts to classify the news into various category using simple m
 
 
 # Algorithms Used
-Multinomial Naive Bayes
+Multinomial Naive Bayes<br/>
 SGD Classifier
 MLP Classifier
