@@ -6,6 +6,8 @@ The project makes uses of few machine learing algorithms to classify the news in
 
 
 # Models implemented:
-Multinomial Naive Bayes
-SGD Classifier
-MLP Classifier
+<ul>
+  <li>
+    Multinomial Naive Bayes</li>
+<li>SGD Classifier</li>
+<li>MLP Classifier</li></ul>
